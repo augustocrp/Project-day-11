@@ -17,7 +17,7 @@ def get_currentScoreboard():
         clock = game["clock"]
         period = game["period"]
 
-        print("########################################\n")
+        print("#######################################\n")
         print(f"{home_team['triCode']} vs {away_team['triCode']}")
         print(f"SCORE: {home_team['score']} x {away_team['score']}")
         print(f"{clock} - {period['current']}\n")
