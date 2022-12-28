@@ -41,7 +41,7 @@ def get_teams_stats():
 
 while True:
     print("#######################\n")
-    print("SEJA BEM VINDO!!! DADOS NBA\n")
+    print("SEJA BEM VINDO! DADOS NBA\n")
     print("1 - Ver Jogos\n")
     print("2 - Ver Times por PPG\n")
     user_choice = input("Opção: ")
